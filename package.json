@@ -1,6 +1,6 @@
 {
   "name": "fis-spriter-csssprites-file",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "基于fis的csssprite，支持分组合并图片，@media处理，合并路径指定，为每个文件分配不同的属性",
   "main": "index.js",
   "directories": {
@@ -11,7 +11,7 @@
     "url": "git@github.com:maxming2333/fis-spriter-csssprites-file.git"
   },
   "dependencies": {
-    "images": "3.0.0"
+    "images": "3.0.1"
   },
   "keywords": [
     "fis",
