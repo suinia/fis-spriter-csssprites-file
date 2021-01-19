@@ -6,7 +6,7 @@ let imgGen;
 try {
   imgGen = require('./libs/image');
 } catch (e) {
-  fis.log.warning('csssprites-file does not support your node ' + process.version + ', report it to https://github.com/maxming2333/fis-spriter-csssprites-file/issues');
+  fis.log.warning('csssprites-file does not support your node ' + process.version + ', report it to https://github.com/suinia/fis-spriter-csssprites-file/issues');
 }
 
 module.exports = function(ret, conf, settings, opt) {

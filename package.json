@@ -1,6 +1,6 @@
 {
-  "name": "fis-spriter-csssprites-file",
-  "version": "1.0.1",
+  "name": "fis-spriter-csssprites-file-img",
+  "version": "1.0.0",
   "description": "基于fis的csssprite，支持分组合并图片，@media处理，合并路径指定，为每个文件分配不同的属性",
   "main": "index.js",
   "directories": {
@@ -8,10 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:maxming2333/fis-spriter-csssprites-file.git"
+    "url": "git@github.com:suinia/fis-spriter-csssprites-file.git"
   },
   "dependencies": {
-    "images": "3.0.1"
+    "images": "3.2.3"
   },
   "keywords": [
     "fis",
@@ -24,9 +24,9 @@
     "jpeg",
     "gif"
   ],
-  "author": "maxming2333 <maxming2333@gmail.com>",
+  "author": "suinia <suini_a@163.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/maxming2333/fis-spriter-csssprites-file/issues"
+    "url": "https://github.com/suinia/fis-spriter-csssprites-file/issues"
   }
 }
